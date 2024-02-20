@@ -3,7 +3,7 @@ import { createRoot } from "react-dom/client";
 const App = () => {
     return (
         <div>
-
+            <h1>Hommewerk</h1>
         </div>
     )
 }
